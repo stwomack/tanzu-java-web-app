@@ -10,6 +10,6 @@ spec:
       value: index.docker.io/tanzu-java-web-app
   source:
     git:
-      url: https://github.com/sample-accelerators/tanzu-java-web-app
+      url: https://github.com/stwomack/tanzu-java-web-app
       ref:
         branch: main
